@@ -1,0 +1,56 @@
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\appsettings.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.staticwebassets.endpoints.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.exe
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.deps.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.runtimeconfig.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\scopedcss\bundle\Ex_1.styles.css
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.Ex_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.Ex_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.build.Ex_1.props
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Ex_1.props
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Ex_1.props
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\refint\Ex_1.dll
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.pdb
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Área de Trabalho\Tarefas_LPR-main\Aula 5\Ex_1\obj\Debug\net9.0\ref\Ex_1.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\appsettings.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.staticwebassets.endpoints.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.exe
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.deps.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.runtimeconfig.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\bin\Debug\net9.0\Ex_1.pdb
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\scopedcss\bundle\Ex_1.styles.css
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.Ex_1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.Ex_1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.build.Ex_1.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Ex_1.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Ex_1.props
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\refint\Ex_1.dll
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.pdb
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\Ex_1.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\DS-class\LP-class\Tarefas_LPR\Aula 5\Ex_1\obj\Debug\net9.0\ref\Ex_1.dll

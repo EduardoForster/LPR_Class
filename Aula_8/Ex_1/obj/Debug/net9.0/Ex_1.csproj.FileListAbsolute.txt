@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\bin\Debug\net9.0\Ex_1.exe
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\bin\Debug\net9.0\Ex_1.deps.json
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\bin\Debug\net9.0\Ex_1.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\bin\Debug\net9.0\Ex_1.dll
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\bin\Debug\net9.0\Ex_1.pdb
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.sourcelink.json
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.dll
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\refint\Ex_1.dll
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.pdb
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\Ex_1.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR-Class\Aula_8\Ex_1\obj\Debug\net9.0\ref\Ex_1.dll
